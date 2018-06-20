@@ -1,2 +1,2 @@
 # gcsClient
-A simple GCS client for uploading, downloading and other experimentations
+A simple GCS client for uploading, downloading and other experimentation
